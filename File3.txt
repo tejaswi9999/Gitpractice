@@ -1,1 +1,4 @@
 trying to learn Git
+functi(new_function){
+//this is new function. 
+}
